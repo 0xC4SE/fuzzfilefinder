@@ -25,3 +25,4 @@ cd ~;cd .fzf/;./install;
 cd ~;cd autojump/;./install.py;
 
 echo "Fzf install success!"
+echo "Please restart ur terminal"
